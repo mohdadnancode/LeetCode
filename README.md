@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mohdadnancode/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdadnancode/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2974-minimum-number-game](https://github.com/mohdadnancode/LeetCode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdadnancode/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/mohdadnancode/LeetCode/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/mohdadnancode/LeetCode/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/mohdadnancode/LeetCode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
