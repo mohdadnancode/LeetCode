@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohdadnancode/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdadnancode/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohdadnancode/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohdadnancode/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2974-minimum-number-game](https://github.com/mohdadnancode/LeetCode/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
@@ -55,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mohdadnancode/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohdadnancode/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->
