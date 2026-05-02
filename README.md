@@ -51,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/mohdadnancode/LeetCode/tree/master/2974-minimum-number-game) |
+## Math
+|  |
+| ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/mohdadnancode/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
