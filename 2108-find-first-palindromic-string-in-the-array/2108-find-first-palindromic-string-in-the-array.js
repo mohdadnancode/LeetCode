@@ -8,7 +8,7 @@ var firstPalindrome = function (words) {
         for (let i = word.length - 1; i >= 0; i--) {
             rev += word[i]
         }
-        if(word === rev) return word;
+        if (word === rev) return word;
     }
     return "";
 };
