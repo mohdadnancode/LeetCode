@@ -4,11 +4,8 @@
  */
 var firstPalindrome = function (words) {
     for (let word of words) {
-        let rev = "";
-        for (let i = word.length - 1; i >= 0; i--) {
-            rev += word[i]
-        }
-        if (word === rev) return word;
+        let rev = [...word].reduce((rev, char) => char + rev, "")
+        if(rev === word) return word
     }
     return "";
 };
