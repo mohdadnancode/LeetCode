@@ -3,9 +3,20 @@
  * @return {string}
  */
 var firstPalindrome = function (words) {
+    const isPalindrome = (word) => {
+        let left = 0;
+        let right = word.length - 1;
+
+        while (left < right) {
+            if (word[left] !== word[right]) return false;
+            left++;
+            right--;
+        }
+        return true;
+    }
+
     for (let word of words) {
-        let rev = [...word].reduce((rev, char) => char + rev, "")
-        if(rev === word) return word
+        if (isPalindrome(word)) return word;
     }
     return "";
 };
