@@ -4,17 +4,13 @@
  */
 var separateDigits = function (nums) {
     let ans = [];
-    let rev = [];
-    for (let i = nums.length - 1; i >= 0; i--) {
-        rev.push(nums[i]);
-    }
+     for(let num of nums) {
+        let str = num.toString();
 
-    for (let num of rev) {
-        while (num > 0) {
-            ans.unshift(num % 10);
-            num = Math.floor(num / 10);
+        for(let digit of str) {
+            ans.push(Number(digit))
         }
-    }
+     }
 
-    return ans;
+     return ans;
 };
