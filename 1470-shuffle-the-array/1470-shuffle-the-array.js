@@ -4,10 +4,14 @@
  * @return {number[]}
  */
 var shuffle = function (nums, n) {
-    let newArr = [];
-    for (let i = 0; i < n; i++) {
-        newArr.push(nums[i], nums[n + i])
-    }
+    let result = [];
+    let left = 0;
+    let right = n;
 
-    return newArr;
+    while (left < n) {
+        result.push(nums[left], nums[right]);
+        left++;
+        right++;
+    }
+    return result;
 };
