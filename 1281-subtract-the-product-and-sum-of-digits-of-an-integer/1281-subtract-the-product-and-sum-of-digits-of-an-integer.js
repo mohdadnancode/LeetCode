@@ -9,8 +9,8 @@ var subtractProductAndSum = function (n) {
     while (n > 0) {
         let digit = n % 10;
         product *= digit;
-        sum += digit
-        n = Math.floor(n / 10)
+        sum += digit;
+        n = Math.floor(n/10);
     }
 
     return product - sum;
