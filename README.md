@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mohdadnancode/LeetCode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mohdadnancode/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/mohdadnancode/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/mohdadnancode/LeetCode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdadnancode/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/mohdadnancode/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/mohdadnancode/LeetCode/tree/master/1550-three-consecutive-odds) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mohdadnancode/LeetCode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/mohdadnancode/LeetCode/tree/master/0682-baseball-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/mohdadnancode/LeetCode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/mohdadnancode/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/mohdadnancode/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/mohdadnancode/LeetCode/tree/master/2974-minimum-number-game) |
