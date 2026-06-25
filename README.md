@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/mohdadnancode/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/mohdadnancode/LeetCode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/mohdadnancode/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1408-string-matching-in-an-array](https://github.com/mohdadnancode/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mohdadnancode/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1550-three-consecutive-odds](https://github.com/mohdadnancode/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/mohdadnancode/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/mohdadnancode/LeetCode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/mohdadnancode/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/mohdadnancode/LeetCode/tree/master/0709-to-lower-case) |
+| [1408-string-matching-in-an-array](https://github.com/mohdadnancode/LeetCode/tree/master/1408-string-matching-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/mohdadnancode/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/mohdadnancode/LeetCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/mohdadnancode/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/mohdadnancode/LeetCode/tree/master/1486-xor-operation-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [1408-string-matching-in-an-array](https://github.com/mohdadnancode/LeetCode/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
